@@ -1,3 +1,5 @@
+# This was copied from Samuel Cochran's sj26/homebrew-core repo; I just made a
+# tap out of it.
 class NginxUnit < Formula
   desc "Dynamic web and application server for multiple languages"
   homepage "https://unit.nginx.org/"
