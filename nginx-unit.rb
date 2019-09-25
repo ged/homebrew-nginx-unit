@@ -3,8 +3,8 @@
 class NginxUnit < Formula
   desc "Dynamic web and application server for multiple languages"
   homepage "https://unit.nginx.org/"
-  url "https://unit.nginx.org/download/unit-1.1.tar.gz"
-  sha256 "7c66365f5ea87e7e8903bac9d639676947fe2ab7aa799ce35defc426b3409ee0"
+  url "https://unit.nginx.org/download/unit-1.11.0.tar.gz"
+  sha256 "da52e884743a08a3ee202ebd1cc21154ac527427d195f0edc003c26e0779b5ca"
   head "https://hg.nginx.org/unit", :using => :hg
 
   option "with-debug", "Build with debug logging enabled"
